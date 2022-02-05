@@ -9,13 +9,117 @@ Lecturers for this Course
 
 Daniel Rothman (MIT), Roger Summons (MIT), Andy Knoll (Harvard), Kevin Peterson (Dartmouth), John Hayes (WHOI), Paul Hoffman (Harvard), and Sam Bowring (MIT).
 
-| Lec # | Topics | Lecturers |
-| --- | --- | --- |
-| 1-2 | Geochemical Signals of the Proterozoic-Phanerozoic Transition | Rothman |
-| 3 | The Molecular Fossil Record | Summons |
-| 4 | Early Animal Evolution | Knoll |
-| 5 | Molecular Clocks and the Divergence of Metazoans | Peterson |
-| 6 | Oxygenation | Hayes |
-| 7 | Glaciations | Hoffman |
-| 8 | Chronology | Bowring |
-| 9-13 | Student Presentations |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+Lecturers
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-2
+{{< tdclose >}}
+{{< tdopen >}}
+Geochemical Signals of the Proterozoic-Phanerozoic Transition
+{{< tdclose >}}
+{{< tdopen >}}
+Rothman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Molecular Fossil Record
+{{< tdclose >}}
+{{< tdopen >}}
+Summons
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Early Animal Evolution
+{{< tdclose >}}
+{{< tdopen >}}
+Knoll
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Molecular Clocks and the Divergence of Metazoans
+{{< tdclose >}}
+{{< tdopen >}}
+Peterson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Oxygenation
+{{< tdclose >}}
+{{< tdopen >}}
+Hayes
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Glaciations
+{{< tdclose >}}
+{{< tdopen >}}
+Hoffman
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Chronology
+{{< tdclose >}}
+{{< tdopen >}}
+Bowring
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-13
+{{< tdclose >}}
+{{< tdopen >}}
+Student Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
